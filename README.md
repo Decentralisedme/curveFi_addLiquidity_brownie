@@ -12,6 +12,6 @@ Follow the steps to run the script:
 You will see the balance of the pool being increased by “amount” set to 0.5 eth atm
 
 To be noted:
-- The Curve.FI programming language is Viper: this creates some complication in when you need to compile all the different contracts >> adding viper version in brownie_config.yaml helps
+- The Curve.FI programming language is Viper: this creates some complication when you need to compile all the different contracts >> adding viper version in brownie-config.yaml helps
 - To following has helpd me to navigate the different Curve Finance COntracts:
 https://www.youtube.com/watch?v=0JrDbvBClEA&list=PLVOHzVzbg7bFUaOGwN0NOgkTItUAVyBBQ&index=7
